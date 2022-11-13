@@ -19,7 +19,7 @@
   "homepage": "https://github.com/garfieldon757/webpackExp#readme",
   "devDependencies": {
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "lodash": "^4.17.15"
